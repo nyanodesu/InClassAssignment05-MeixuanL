@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InClassAssignment05-MeixuanL</string>
+
+    <string name="Title">Title</string>
+    <string name="Your_Message">Your Message</string>
+    <string name="Only_Send_Title">Only Send Title</string>
+    <string name="Send_Mail_Button">send mail</string>
+    <string name="Launch_Activity_Button">launch activity</string>
+    <string name="Launch_Camera_Button">launch camera</string>
+
+</resources>

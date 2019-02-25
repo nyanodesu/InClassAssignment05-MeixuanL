@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InClassAssignment05-MeixuanL</string>
+    <string name="Title">タイトル</string>
+    <string name="Your_Message">あなたのメッセージ</string>
+    <string name="Only_Send_Title">テキストのみを送信する</string>
+    <string name="Send_Mail_Button">メールを送る</string>
+    <string name="Launch_Activity_Button">起動活動</string>
+    <string name="Launch_Camera_Button">起動カメラ</string>
+</resources>
